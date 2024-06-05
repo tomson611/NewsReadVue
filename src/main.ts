@@ -1,5 +1,4 @@
-import './assets/main.css'
-
+import '@infermedica/component-library/src/styles/styles.scss'
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 
