@@ -2,6 +2,10 @@
 import SiteNavigation from '@/components/SiteNavigation.vue'
 </script>
 
-<template><SiteNavigation /></template>
+<template>
+  <div id="layout">
+    <SiteNavigation />
+  </div>
+</template>
 
 <style scoped></style>
