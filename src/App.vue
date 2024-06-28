@@ -4,7 +4,7 @@ import SiteNavigation from '@/components/SiteNavigation.vue'
 
 <template>
   <div id="layout">
-    <SiteNavigation />
+    <SiteNavigation></SiteNavigation>
   </div>
 </template>
 
